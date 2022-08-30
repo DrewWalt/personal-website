@@ -44,7 +44,7 @@ function Experience() {
         </VerticalTimelineElement>
         <VerticalTimelineElement className="vertical-timeline-element--education" date="May 2022" iconStyle={{background: '#3e497a', color: '#fff'}} icon={<SchoolIcon />}>
           <h3 className='vertical-timeline-element-title'>Gettysburg College, Gettysburg, Pennsylvania</h3>
-          <p>Graduated from Gettysburg College with a Bachelor of Science degree in Computer Science.  While attending Gettysburg College I was also on the football team and a member of the Alpha Tau Omega Fraternity.</p>
+          <p>Graduated from Gettysburg College with a Bachelor of Science in Computer Science.  While attending Gettysburg College I was also on the football team and a member of the Alpha Tau Omega Fraternity.</p>
         </VerticalTimelineElement>
       </VerticalTimeline>
     </div>

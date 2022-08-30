@@ -11,9 +11,7 @@ function Home() {
         <h2> Hello, My Name is Drew Walton</h2>
         <div className="prompt"> 
           <p>
-            I am a recent computer science graduate seeking an opportunity with an established and nationally recognized software
-            engineering firm. I want to join a team that is focused on developing innovative programming, provides
-            leadership opportunities, and invests in their employees for long-term growth and development. 
+            I am a recent computer science graduate from Gettysburg College.  I created this website as a learning experience as well as a way to demonstrate my skills.  I plan to update this website as I expand my portfolio.
           </p>
             <IconButton href="https://www.linkedin.com/in/drew-walton-528029240/" target="_blank" rel="noopener noreferrer" >
                 <LinkedInIcon style={{ fill: '#0077b5' }}/>
