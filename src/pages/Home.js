@@ -32,13 +32,13 @@ function Home() {
           <li className="item">
             <h2>Front-End</h2>
             <span>
-              ReactJS, CSS, HTML
+              ReactJS, CSS, HTML, Angular
             </span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
             <span>
-              Java Spring, MySQL, AWS lambda, MongoDB
+              Java Spring, MySQL, AWS, MongoDB
             </span>
           </li>
           <li className="item">
